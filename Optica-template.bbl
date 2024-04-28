@@ -1,0 +1,51 @@
+\begin{thebibliography}{1}
+\newcommand{\enquote}[1]{``#1''}
+
+\bibitem{WOHLER2017118}
+C.~Wöhler, A.~Grumpe, A.~A. Berezhnoy, \emph{et~al.}, \enquote{Temperature
+  regime and water/hydroxyl behavior in the crater boguslawsky on the moon,}
+  {\protect\JournalTitle{Icarus}} \textbf{285}, 118--136 (2017).
+
+\bibitem{DAVIDSSON20151}
+B.~J. Davidsson, H.~Rickman, J.~L. Bandfield, \emph{et~al.},
+  \enquote{Interpretation of thermal emission. i. the effect of roughness for
+  spatially resolved atmosphereless bodies,} {\protect\JournalTitle{Icarus}}
+  \textbf{252}, 1--21 (2015).
+
+\bibitem{chandrayaan1}
+{NASA Science}, \enquote{Chandrayaan-1,}
+  \url{https://science.nasa.gov/mission/chandrayaan-1/} (2020). Accessed: April
+  27, 2024.
+
+\bibitem{clark_thermal_2011}
+R.~N. Clark, C.~M. Pieters, R.~O. Green, \emph{et~al.}, \enquote{Thermal
+  removal from near-infrared imaging spectroscopy data of the {Moon},}
+  {\protect\JournalTitle{Journal of Geophysical Research}} \textbf{116}, E00G16
+  (2011).
+
+\bibitem{WOHLER201486}
+C.~Wöhler, A.~Grumpe, A.~Berezhnoy, \emph{et~al.}, \enquote{Integrated
+  topographic, photometric and spectral analysis of the lunar surface:
+  Application to impact melt flows and ponds,} {\protect\JournalTitle{Icarus}}
+  \textbf{235}, 86--122 (2014).
+
+\bibitem{li_empirical_2016}
+S.~Li and R.~E. Milliken, \enquote{An empirical thermal correction model for
+  {Moon} {Mineralogy} {Mapper} data constrained by laboratory spectra and
+  {Diviner} temperatures,} {\protect\JournalTitle{Journal of Geophysical
+  Research: Planets}} \textbf{121}, 2081--2107 (2016).
+
+\bibitem{mrnka2017random}
+M.~Mrnka, \enquote{Random gaussian rough surfaces for full-wave electromagnetic
+  simulations,} {\protect\JournalTitle{IEEE}}  (2017).
+
+\bibitem{nyquist_shannon}
+\enquote{Nyquist–shannon sampling theorem,}
+  \url{https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem}.
+
+\bibitem{https://doi.org/10.1029/2021EA001968}
+K.~Durga~Prasad, V.~K. Rai, and S.~V.~S. Murty, \enquote{A comprehensive 3d
+  thermophysical model of the lunar surface,} {\protect\JournalTitle{Earth and
+  Space Science}} \textbf{9}, e2021EA001968 (2022). E2021EA001968 2021EA001968.
+
+\end{thebibliography}
